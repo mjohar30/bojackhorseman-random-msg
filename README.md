@@ -10,6 +10,8 @@ npm install -g bojackhorseman-random-msg
 
 # Usage
 
+You can use it in your favourite command-line interface (CLI), only with the following command: 
+
 ```bash
 bojackSays
 ```
