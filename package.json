@@ -1,0 +1,29 @@
+{
+  "name": "bojackhorseman-random-msg",
+  "version": "1.0.0",
+  "description": "Random messages based on Netflix series Bojack Horseman",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mjohar30/bojackhorseman-random-msg"
+  },
+  "keywords": [
+    "bojack horseman",
+    "netflix",
+    "series",
+    "random",
+    "messages",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Mario Johar <mariojoharg@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "bojackSays": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
